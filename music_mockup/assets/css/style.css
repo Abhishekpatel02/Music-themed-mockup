@@ -1,0 +1,1059 @@
+/*.................................common css........................................*/
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box	;
+}
+img{
+	max-width: 100%;
+	display: block;
+}
+a{
+	display: inline-block;
+	text-decoration: none;
+}
+p{
+	line-height: 30px;
+}
+html{
+    scroll-behavior: smooth;
+}
+h2,h5{
+    font-family: "Satisfy", serif;
+}
+h1,h3,h4{
+    font-family: "Almendra", serif;
+}
+body{
+     font-family: "Nunito Sans", serif;
+}
+h1{
+	font-size: 60px;
+	line-height: 85px;
+}
+h2{
+	font-size: 46px;
+	line-height: 60px;
+}
+h3{
+	font-size: 44px ;
+	line-height: 56px;
+}
+h4{
+	font-size: 24px;
+	line-height: 36px;
+}
+h5{
+	font-size: 20px;
+	line-height: 32px;
+    font-weight: 500;
+}
+.left{
+	float: left;
+}
+.right{
+	float: right;
+}
+.clearfix::after {
+	content: "";
+	clear: both;
+	display: table;
+}
+.header-center-wrapper{
+	max-width: 1657px;
+	margin: 0 auto;
+	width: 96%;
+}
+.center-wrapper{
+	max-width: 1380px;
+	margin: 0 auto;
+	width: 96%;
+}
+:root {
+    --animate-duration: 1.5s;
+}
+/*..........................common css end................................*/
+
+/*...........................header section start..........................*/
+header{
+	background-color: rgba(255, 255, 255, 0.3);
+    backdrop-filter: blur(3px);
+    z-index: 1;
+    position: absolute;
+    width: 100%;
+}
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  background-color: white;
+}
+.nav-logo {
+    margin-top: 5px;
+    width: 14%;
+}
+.sticky-logo  {
+    width: 7%;
+    transition: all 0.5s;
+}
+.nav-list {
+    margin-top: 20px;
+}
+.sticky-nav-list{
+    margin-top: 5px;
+}
+#menu {
+    margin-top: 16px;
+}
+.nav-list ul li {
+    display: inline-block;
+     padding: 0px 0px 0px 37px;
+}
+.nav-icons {
+    color: black;
+    font-weight: 700;
+    font-size: 16px;
+}
+.nav-icons:hover{
+    color: #F48014;
+    transition: all 0.5s;
+}
+.nav-enquiry-btn {
+    margin-left: 327px;
+}
+.nav-enquiry-button {
+    background-color: #F48014;
+    color: white;
+    padding: 17px;
+    border-radius: 10px;
+    min-width: 156px;
+    text-align: center;
+    font-weight: 600;
+}
+.navEnquirybtn{
+    padding: 10px;
+    min-width: 126px;
+    margin-top: 5px;
+    transition: all 0.5s;
+}
+.nav-enquiry-button:hover{
+    background-color: #495E57;
+    transition: all 0.8s ease;
+}
+
+/*...........................header section end..........................*/
+/*...........................banner section start........................*/
+.banner{
+	background: url("../images/Banner_Image.jpg") no-repeat center/cover;
+	padding: 315px 0px 352px 0px;
+    overflow: hidden;
+}
+.banner-heading {
+    padding-right: 484px;
+}
+.banner-heading h2 {
+    color: #F48014;
+    margin-bottom: 9px;
+    font-weight: 500;
+}
+
+/*...........................banner section End........................*/
+ /*...................................About me section start................*/
+.about-me{
+    overflow: hidden;
+	padding: 123px 0px 109px 0px;
+}
+.about-me-image {
+    position: relative;
+    padding-top: 15px;
+}
+.about-me-image::after {
+    content: "";
+    position: absolute;
+    height: 100px;
+    width: 105px;
+    background-color: #F48014;
+    top: -10px;
+    right: -20px;
+    z-index: -1;
+}
+.about-me-content {
+    width: 53%;
+}
+.about-me-content h5 {
+    color: #495E57;
+    border-bottom: 1px solid #495E57;
+    width: 10%;
+}
+.about-me-content h3 {
+	color: #101130;
+    padding: 15px 0px;
+}
+.about-vision {
+    font-size: 18px;
+    color: #262626;
+    margin-bottom: 26px;
+}
+.about-work {
+    margin-bottom: 15px;
+    padding: 5px;
+    font-size: 18px;
+    line-height: 30px;
+    font-weight: 600;
+    background-image: linear-gradient(290deg, white 40%, #FEF9F5 68%);
+}
+.about-work svg {
+    vertical-align: middle;
+    margin-right: 7px;
+}
+/*...................................About me section End................*/
+/*..................................Our Courses section end.................*/
+.our-courses{
+    overflow: hidden;
+}
+.our-courses-heding{
+	color: #495E57;
+    border-bottom: 1px solid #495E57;
+    width: 5%;
+    margin: 0 auto;
+}
+.our-clases-heding{
+	color: #101130;
+	text-align: center;
+    margin: 18px 10px 0px 10px;
+}
+.our-courses-para {
+    text-align: center;
+    font-size: 20px;
+    margin: 0 auto;
+    width: 38%;
+    opacity: 0.8;
+}
+.courses-cards {
+    padding: 48px 0px 55px 0px;
+   background: url("../images/Our_Classes_BG_Image.jpg") no-repeat center/cover;
+   margin-top: 29px;
+   position: relative;
+   overflow: hidden;
+}
+.courses-cards::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background-color: #3E3A3A;
+    opacity: 0.9;
+    z-index: 0;
+}
+.card {
+    height: 527px;
+    width: 387px;
+    background-color: #FFFCF2;
+    display: inline-block;
+    margin-right: 69px;
+    position: relative;
+}
+.rupee-symbol {
+    font-size: 24px;
+    vertical-align: text-top;
+    line-height: 33px;
+}
+.card-container {
+    padding: 0px 27px 0px 22px;
+    margin-top: 28px;
+}
+.card:last-child {
+    margin-right: 0;
+}
+.card-heading h4{
+    font-weight: 500;
+}
+.card-para {
+    width: 100%;
+    text-align: start;
+}
+.card-para p{
+    font-size: 16px;
+    line-height: 25px;
+}
+.card-duaration {
+    display: inline-block;
+}
+.card-duaration {
+    padding-top: 32px;
+    font-weight: 600;
+}
+.card-duaration p svg {
+    vertical-align: sub;
+    margin-right: 10px;
+}
+.card-Enroll-button {
+    display: inline-block;
+    float: right;
+    padding-top: 26px;
+    padding-right: 21px;
+}
+.card-Enroll-button a {
+    background-color: #495E57;
+    color: white;
+    min-width: 114px;
+    text-align: center;
+    padding: 12px 15px;
+    border-radius: 10px;
+}
+.card-Enroll-button a:hover{
+    background-color: #101130;
+    transition: all 0.5s;
+}
+.card-image {
+    position: relative;
+}
+.card-image p {
+    background-color: white;
+    text-align: center;
+    position: absolute;
+    top: 0;
+    min-width: 136px;
+    padding: 5px 0px 5px 0px;
+    font-weight: 600;
+}
+.card:hover .card-heading h4{
+    color: #101130;
+}
+/*..................................Our Courses section end......................*/
+/*.................................package section start..........................*/
+.packages {
+    padding: 115px 0px 296px 0px;
+    background-color: #F3F4F5;
+}
+.package-heading h5{
+	color: #495E57;
+    border-bottom: 1px solid #495E57;
+    width: 7%;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 20px;
+}
+.package-lessions-heading h3{
+	color: #101130;
+    text-align: center;
+    padding: 16px 0px 6px 0px;
+}
+.packages-section-para p{
+    text-align: center;
+    font-size: 20px;
+    margin: 0 auto;
+    width: 58%;
+    opacity: 0.8;
+    padding-bottom: 53px;
+}
+.package-section-cards {
+    margin-top: -304px;
+}
+.package-card:last-child {
+    margin-right: 0;
+}
+.package-card {
+    width: 412px;
+    background-color: white;
+    display: inline-block;
+    padding: 56px 42px 65px 46px;
+    margin-right: 44px;
+    box-shadow: 0.5px 0.5px 15px 10px #f5f5f5;
+    border:  3px solid white;
+}
+.package-card:hover{
+    border:  3px solid #495E57;
+	background: url(../images/Packages_BG_Element.png) no-repeat bottom 13% right 22%;
+	background-color: white;
+}
+.package-card:hover .package-card-heading h3{
+	color:#F48014 ;
+    transition: all 0.5s;
+}
+.package-card:hover .package-card-payment p{
+	color:#F48014 ;
+    transition: all 0.5s;
+}
+.package-card:hover .package-card-Enroll-button a  {
+	background-color:#F48014 ;
+    transition: all 0.5s;
+}
+.package-card:hover .payment-month  {
+	color:#F48014 ;
+    transition: all 0.5s;
+}	
+.package-card-heading h3 {
+    color: #101130;
+}
+.package-card-para p{
+    font-size: 18px;
+    line-height: 30px;
+    padding-bottom: 10px;
+}
+.package-card-payment p {
+    font-size: 45px;
+    line-height: 85px;
+    color: #101130;
+    font-weight: 600;
+}
+.payment-month{
+	font-size: 18px;
+	color: #495E57;
+	vertical-align: top;
+}
+.package-card-list p {
+    font-size: 18px;
+    padding-bottom: 10px;
+}
+.package-card-list svg {
+    margin-right: 15px;
+}
+.package-card-Enroll-button {
+    padding-top: 34px;
+}
+.package-card-Enroll-button a {
+    background-color: #495E57;
+    color: white;
+    min-width: 114px;
+    text-align: center;
+    padding: 12px 15px;
+    border-radius: 10px;
+}
+ .package-card-slidercontainer .bx-controls.bx-has-controls-direction.bx-has-pager {
+    display: none;
+}
+/*.................................package section end..........................*/
+/*................................testimonials section start.....................*/
+.testinomial {
+    padding-top: 110px;
+    padding-bottom: 160px;
+    background: url("../images/Testimonials_BG_Element.png") no-repeat center;
+    overflow: hidden;
+}
+.testinomial-heading h5{
+	color: #495E57;
+    border-bottom: 1px solid #495E57;
+    width: 7%;
+    margin: 0 auto;
+    text-align: center;
+}
+.testinomial-students-heading h3{
+	color: #101130;
+    text-align: center;
+    padding: 16px 0px 6px 0px;
+}
+.testinomial-section-para p{
+    text-align: center;
+    font-size: 20px;
+    margin: 0 auto;
+    width: 58%;
+    opacity: 0.8;
+    padding-bottom: 53px;
+}
+.testinomial-image {
+	position: relative;
+	margin-left: 112px;
+}
+.testinomial-image ::after {
+    content: "";
+    position: absolute;
+    height: 100px;
+    width: 105px;
+    background-color: #F48014;
+    top: -29px;
+    left: -29px;
+    z-index: -1;
+}
+.testimonial-box {
+    width: 525px;
+    background-color: #495E57;
+    padding: 81px 55px 70px 55px;
+    color: white;
+    margin-top: 75px;
+    position: relative;
+}
+.testinomial-box-image {
+    position: absolute;
+    top: -22px;
+}
+.testinomial-box-image figure {
+    display: inline-block;
+    margin-right: 15px;
+    border: 4px solid white;
+    border-radius: 50%;
+}
+.testinomial-box-image figure:hover{
+	border: 4px solid #EB7E18;
+	border-radius: 50%;
+}
+.testinomial-student-feedback p {
+    padding: 32px 0px 49px 0px;
+    font-size: 20px;
+    line-height: 32px;
+}
+.student-name p {
+    font-size: 18px;
+    line-height: 25px;
+    font-weight: 600;
+}
+.testinomial-student p {
+    font-size: 18px;
+    line-height: 30px;
+}
+.bx-viewport {
+    height: unset !important;
+}
+.bx-pager.bx-default-pager {
+    display: none;
+}
+.bx-wrapper {
+    display: inline-block;
+}
+.bx-controls-direction {
+    position: relative;
+}
+.testinomial .bx-prev{
+    font-size: 0;
+    background: url(../images/Slider_RHS_Arrow.svg) no-repeat center;
+    width: 50px;
+    height: 50px;
+    background-color: white;
+    position: absolute;
+    top: -50px;
+    right: 0;
+}
+ .testinomial .bx-next {
+    font-size: 0;
+    background: url(../images/LHS_Slider_Arrow.svg) no-repeat center;
+    width: 50px;
+    height: 50px;
+    background-color: white;
+    position: absolute;
+    top: -50px;
+    right: 50px;
+}
+.testinomial .bx-prev:hover,.testinomial .bx-next:hover{
+    background-color: #F48014;
+    transition: all 0.5s;
+}
+/*................................testimonials section end.....................*/
+/*............................why choose us section start.............................*/
+.choose-us{
+    background: url("../images/Why_Choose_Us.jpg") no-repeat center/cover;
+	position: relative;
+    padding: 84px 0px 251px 46px;
+}
+.choose-us::before {
+    position: absolute;
+    content: "";
+    width: 100%;
+    height: 100%;
+    background-color: #050504;
+    opacity: 0.7;
+    z-index: 0;
+    top: 0;
+    left: 0;
+}
+.choose-us-section{
+    position: relative;
+    width: 88%;
+}
+.why-choose {
+    width: 18%;
+    margin-bottom: 10px;
+}
+.why-choose h5 {
+    color: white;
+    border-bottom: 2px solid white;
+}
+.facilities {
+    width: 74%;
+}
+.facilities h3 {
+    color: white;
+    font-weight: 600;
+}
+.booking-btn {
+    padding-top: 45px;
+    position: relative;
+    /*margin-right: 163px;*/
+}
+.booking-btn a {
+    color: white;
+    background-color: #F48014;
+    min-width: 226px;
+    padding: 19px 36px;
+    text-align: center;
+    border-radius: 16px;
+}
+.booking-btn a:hover{
+	 transition:  all 0.5s ;
+     background-color: #495E57;
+}
+/*............................why choose us section start.............................*/
+/*............................ experience-boxes section start ........................*/
+.box {
+    width: 271px;
+    height: 271px;
+    background-color: white;
+    text-align: center;
+    padding: 49px 0px 49px 0px;
+    display: inline-block;
+    margin-right: 20px;
+    margin-top: -214px;
+    position: relative;
+    box-shadow: 0px 3px 6px 0px #f5f5f5;
+}
+.box:hover{
+	outline: 4px solid #495E57;
+}
+.box-image figure svg {
+    min-height: 81px;
+}
+.box-count p {
+    font-size: 30px;
+    font-weight: 800;
+    line-height: 42px;
+    color: #101130;
+    display: inline-block;
+}
+.box-para p {
+    font-size: 20px;
+    line-height: 32px;
+    color: #101130;
+}
+.experience-boxes {
+    margin-bottom: 50px;
+    padding-left: 52px;
+}
+.box-count-symbol {
+    font-size: 33px;
+    font-weight: 700;
+}
+/*............................ experience-boxes section end ........................*/
+/*.............................image gallery section start..........................*/
+.gallery {
+    padding: 20px 0px 62px 0px;
+    text-align: center;
+}
+.gallery-heading h5 {
+    color: #495E57;
+    border-bottom: 1px solid #495E57;
+    width: 4%;
+    margin: 0 auto;
+    text-align: center;
+}
+.my-gallery-heading h3 {
+    color: #101130;
+    text-align: center;
+    padding: 16px 0px 6px 0px;
+}
+.gallery-section-para p {
+    text-align: center;
+    font-size: 20px;
+    margin: 0 auto;
+    width: 58%;
+    opacity: 0.8;
+    padding-bottom: 53px;
+}
+.multi-image {
+    display: inline-block;
+    vertical-align: top;
+    width: unset !important;
+}
+.multi-image a{
+    display: block;
+}
+.single-image {
+    display: inline-block;
+    vertical-align: top;
+    width: 420px !important;
+}
+.multi-image figure {
+    margin-bottom: 28px;
+}
+/*.............................image gallery section End..........................*/
+/*...........................contact us section start...............................*/
+.contact-us{
+    overflow: hidden;
+}
+.contact-us h5 {
+    color: #495E57;
+    border-bottom: 1px solid #495E57;
+    width: 7%;
+    margin: 0 auto;
+    text-align: center;
+}
+.get-in-touch-heading h3 {
+    color: #101130;
+    text-align: center;
+    padding: 16px 0px 6px 0px;
+}
+.contact-us-section-para p {
+    text-align: center;
+    font-size: 20px;
+    margin: 0 auto;
+    width: 53%;
+    opacity: 0.8;
+    padding-bottom: 53px;
+}
+.form-image-section {
+    padding-bottom: 103px;
+}
+.contact-us-image {
+    position: relative;
+}
+.contact-box {
+    background-color: white;
+    padding: 22px 42px 17px 75px;
+    width: 81%;
+    position: absolute;
+    right: 0;
+    botom: 0;
+    bottom: 0;
+    box-shadow: 0.1px 0.3px 8px grey;
+}
+.contact-box h3 {
+    color: #101130;
+    font-size: 22px;
+    line-height: 26px;
+    font-weight: 500;
+}
+.contact-box p {
+    color: #101130;
+    font-size: 16px;
+    line-height: 25px;
+}
+.contact-us-call {
+    display: inline-block;
+    padding-right: 35px;
+    position: relative;
+    border-right: 1px dotted #e9cfb8;
+    padding-top: 22px;
+    padding-bottom: 16px;
+}
+.contact-us-call a svg {
+    position: absolute;
+    left: -44px;
+    top: 32px;
+}
+.contact-us-call a:hover p{
+    color: #F48014;
+    transition: all 0.5s;
+}
+.contact-us-call a:hover svg{
+    transform: rotate(45deg);
+}
+.contact-us-email {
+    display: inline-block;
+     position: relative;
+     padding-left: 72px;
+}
+.contact-us-email a svg {
+    position: absolute;
+    top: 13px;
+    left: 24px;
+}
+.contact-us-email a:hover p{
+    color: #F48014;
+}
+.form-section {
+    border: 4px solid #495E57;
+    padding: 36px 55px 37px 40px;
+    margin-right: 61px;
+    width: 46%;
+}
+.form-heading {
+    margin-bottom: 50px;
+}
+.form-heading h3 {
+    color: #181818;
+}
+.input-fields,.message-field{
+    position: relative;
+}
+.input-fields input {
+    width: 100%;
+    padding: 0px 0px 10px 0px;
+    border: none;
+    border-bottom: 1px solid #bfbfbf;
+    font-size: 18px;
+    line-height: 32px;
+    outline: none;
+    opacity: 0.8;
+    margin-bottom: 43px;
+    font-family: "Nunito Sans", serif;
+}
+.input-fields input::placeholder{
+	color: black;
+}
+.input-fields select {
+	width: 100%;
+    padding: 0px 0px 18px 0px;
+    border: none;
+    border-bottom: 1px solid #bfbfbf;
+    font-size: 18px;
+    line-height: 32px;
+    outline: none;
+    background-color: white;
+    opacity: 0.8;
+    margin-bottom: 43px;
+    font-family: "Nunito Sans", serif;
+}
+.message-field textarea {
+    width: 100%;
+    padding: 0px 0px 62px 0px;
+    border: none;
+    border-bottom: 1px solid #bfbfbf;
+    font-size: 18px;
+    line-height: 32px;
+    outline: none;
+    resize: none;
+    font-family: "Nunito Sans", serif;
+    opacity: 0.8;
+    margin-bottom: 40px;
+}
+.message-field textarea::placeholder{
+	color: black;
+}
+.submit-btn input{
+	background-color: #495E57;
+    border-radius: 10px;
+    color: #ffffff;
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 18px;
+    border: none;
+    min-width: 115px;
+    padding: 20px 28px;
+    cursor: pointer;
+}
+.submit-btn input:hover {
+    background-color: #F48014;
+    transition: all 0.5s;
+}
+.message-field {
+    position: relative;
+}
+.error-message {
+    color: red;
+    position: absolute;
+    left: 0;
+    bottom: 13px;
+}
+
+/*...........................contact us section end...............................*/
+/*...........................Enquire now section start...............................*/
+.enquire-now-section {
+    padding: 47px 75px;
+    background-color: #495E57;
+    color: white;
+    margin-bottom: -81px;
+    position: relative;
+}
+.quesion h3 {
+    font-size: 38px;
+    line-height: 50px;
+}
+.quesion p {
+    font-size: 18px;
+}
+.enquire-btn a {
+    color: #101130;
+    font-size: 18px;
+    font-weight: 700;
+    background-color: white;
+    min-width: 189px;
+    text-align: center;
+    padding: 19px 0px 14px 0px;
+    border-radius: 15px;
+    margin-top: 10px;
+}
+.enquire-btn a:hover{
+    background-color: #F48014;
+    border: none;
+    outline: none;
+    color: white;
+    transition:all 0.5s;
+}
+/*...........................Enquire now section end...............................*/
+/*...........................footer-section start..................................*/
+.footer-section{
+	background-color: #F4F4F4;
+	padding: 127px 0px 64px 0px;
+}
+.footer-logo-section{
+	width: 26%;
+    display: inline-block;
+    margin-right: 49px;
+}
+.footer-content p {
+    color: black;
+    padding: 8px 109px 17px 0px;
+    font-size: 18px;
+    line-height: 30px;
+    font-weight: 600;
+    opacity: 0.9;
+}
+.social-media-icons a {
+    margin-right: 11px;
+}
+.social-media-icons a:hover {
+    transform: scale(1.1);
+    transition: 0.3s all;
+}
+.explore-section {
+    display: inline-block;
+    width: 18%;
+    vertical-align: top;
+    margin-top: 29px;
+}
+.explore-section h3 {
+    font-size: 20px;
+    line-height: 32px;
+    padding-bottom: 10px;
+}
+.link-list ul li{
+    list-style: square;
+    color: #495E57;
+    margin-left: 17px;
+}
+.link-list ul li:hover{
+    color: #F48014;
+}
+.link-list ul li a {
+    color: black;
+    font-size: 18px;
+    line-height: 30px;
+    padding-bottom: 5px;
+    font-weight: 600;
+    opacity: 0.9;
+}
+.link-list ul li a:hover {
+    color: #F48014;
+    transition: 0.3s all;
+}
+.contact-section {
+    display: inline-block;
+    width: 26%;
+    vertical-align: top;
+    margin-top: 30px;
+}
+.contact-section h3{
+	font-size: 20px;
+    line-height: 32px;
+    padding-bottom: 20px;
+}
+.location a,.contact a,.email a {
+    color: black;
+    font-size: 18px;
+    padding: 0px 78px 0px 30px;
+    margin-bottom: 23px;
+    font-weight: 600;
+    opacity: 0.9;
+    position: relative;
+}
+.location a:hover,.contact a:hover,.email a:hover{
+    color: #F48014;
+    transition: 0.3s all;
+}
+.location a:hover svg path{
+    fill:#F48014;
+}
+.contact a:hover svg{
+    transform: rotate(45deg);
+}
+.contact a:hover svg path{
+    fill:#F48014;
+}
+.email a:hover svg path{
+     fill:#F48014;
+}
+.location a svg{
+    position: absolute;
+    left: 0px;
+    bottom: 15px;
+}
+.contact a svg{
+	 position: absolute;
+    left: 0px;
+    bottom: 0px;
+}
+.email a svg{
+	position: absolute;
+	left: 0px;
+}
+.subscribe{
+    display: inline-block;
+    width: 25%;
+    vertical-align: top;
+    margin-top: 30px;
+}
+.subscribe h3 {
+    font-size: 20px;
+    line-height: 32px;
+    padding-bottom: 12px;
+}
+.subscribe p {
+    font-size: 18px;
+    line-height: 32px;
+    font-weight: 600;
+    opacity: 0.9;
+}
+.subscribe-email {
+    width: 85%;
+    margin: 5px 0px;
+    position: relative;
+}
+.footer-error-message{
+    color: red;
+    position: absolute;
+    left: 61px;
+    bottom: -24px;
+}
+.subscribe-email input {
+    width: 100%;
+    padding: 16px;
+    border: none;
+    outline: none;
+}
+.subscribe-email input::placeholder{
+	font-size: 18px;
+	color: black;
+}
+.email-submit-icon{
+    position: relative;
+}
+.email-submit-icon input {
+    min-width: 48px;
+    min-height: 48px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    background: url('../images/Your_Email.svg') no-repeat center;
+    background-color: #F48014;
+}
+.email-submit-icon input:hover{
+    background-color: #495E57;
+    transition: all 0.5s;
+}
+.copyright{
+	background-color: #262626;
+	color: white;
+	text-align: center;
+	padding: 19px 0px 10px 0px;
+}
+.copyright-section span {
+    font-size: 18px;
+    line-height: 30px;
+}
+.copyright-section span a {
+    color: white;
+}
+.copyright-section span a:hover{
+    color: #F48014;
+}
+/*.........................../footer-section end..................................*/

@@ -1,0 +1,1790 @@
+/*Responsive CSS Start*/
+@media only screen and (max-width:  2560px){
+    .slicknav_menu {
+        display: none;
+    }
+}
+@media only screen and (max-width:  1920px){
+}
+/*1600*/
+@media only screen and (max-width:  1599px) {
+}
+/*1560*/
+@media only screen and (max-width:  1559px) {
+}
+/*1440*/
+@media only screen and (max-width:1439px){
+    .nav-enquiry-btn {
+        margin-left: 196px;
+    }
+    .card {
+        margin-right: 43px;
+    }
+    .package-card {
+        margin-right: 22px;
+    }
+    .form-section {
+       margin-right: 35px;
+    }
+    .banner {
+        padding: 265px 0px 175px 0px;
+    }
+    .slicknav_menu {
+        display: none;
+    }
+    .about-me-content h5 {
+        width: 13%; 
+    }
+    .our-courses-heding {
+        width: 8%;    
+    }
+    .our-courses-para {
+        width: 59%;
+    }
+    .packages-section-para p {
+        width: 62%;
+    }
+    .explore-section {
+        width: 18%;
+    }
+    .contact-section {
+        width: 26%;
+    }
+    .sticky-logo {
+        width: 9%;
+    }
+    .choose-us-section{
+       width: 92%;
+    }
+}
+/*1366*/
+@media only screen and (max-width:1365px){
+    .card {
+        margin-right: 31px;
+    }
+    .package-card {
+        margin-right: 7px;
+    }
+    .testinomial-image {
+        margin-left: 93px;
+    }
+    .form-heading h3 {
+        font-size: 42px;
+    }
+    .card {
+        margin-right: 19px;
+    }
+    .our-courses-heding {
+        width: 8%;
+    }
+    .our-courses-para {
+        width: 51%;
+    }
+     .location a{
+        padding-right: 68px;
+    }
+     .choose-us-section{
+       width: 95%;
+    }
+}
+/*1320*/
+@media only screen and (max-width:1319px){
+    .banner {
+        padding: 197px 0px 175px 0px;
+    }
+    .banner-heading {
+        padding-right: 407px;
+    }
+    .our-courses-heding {
+        width: 8%;
+    }
+    .package-card {
+        width: 398px;
+    }
+    .testinomial-image {
+        margin-left: 62px;
+    }
+    .choose-us-section{
+       width: 97%;
+    }
+    .box {
+        margin-right: 13px;
+    }
+   .form-section {
+       margin-right: 0;
+    }
+    .form-heading h3 {
+        font-size: 39px;
+        line-height: 51px;
+    }
+    .our-courses-para {
+        width: 57%;
+    }
+    .packages-section-para p {
+        width: 70%;
+    }
+    .location a {
+        padding-right: 67px;
+    }
+     .nav-enquiry-btn  {
+        margin-bottom: 10px;
+    }
+    .about-me {
+        padding: 100px 0px 90px 0px;
+    }
+    .packages {
+        padding-top: 90px;
+    }
+    .testinomial {
+        padding-top: 90px;
+        padding-bottom: 140px;
+    }
+    .gallery {
+        padding: 20px 0px 50px 0px;
+    }
+    .package-card-heading h3 {
+        font-size: 42px;
+        line-height: 56px;
+    }
+}
+/*1280*/
+@media only screen and (max-width:1279px){
+    .nav-enquiry-btn {
+        margin-left: 86px;
+    }
+    .banner-heading {
+        padding-right: 373px;
+    }
+    .banner-heading h1 {
+        font-size: 52px;
+        line-height: 64px;
+    }
+    .about-me-content {
+        width: 50%;
+    }
+    .about-me-content h5 {
+        width: 16%;
+    }
+    .card {
+        width: 361px;
+    }
+    .package-card {
+        width: 374px;
+    }
+    .package-card-heading h3 {
+        font-size: 41px;
+    }
+    .testinomial-image {
+         margin-left: 25px;
+    }
+    .slidercontainer {
+        width: 0;
+    }
+    .box {
+        width: 252px;
+        height: 252px;
+    }
+    .contact-us h5 {
+        width: 9%;
+    }
+    .form-section {
+        width: 42%;
+    }
+    .form-heading h3 {
+        font-size: 38px;
+        line-height: 42px;
+    }
+    .footer-logo-section {
+        width: 24%;
+    }
+    .footer-content p {
+        padding: 8px 57px 17px 0px;
+    }
+    .location a {
+        padding-right: 48px;
+    }
+    .our-courses-para {
+        width: 61%;
+    }
+    .testinomial-section-para p {
+        width: 100%;
+    }
+    .contact-us-section-para p {
+        width: 70%;
+    }
+    .location a {
+        padding-right: 46px;
+    }
+    .nav-list {
+        margin-top: 15px;
+    }
+    .form-heading h3 {
+        font-size: 36px;
+        line-height: 49px;
+    }
+}
+/*1200*/
+@media only screen and (max-width:1199px){
+   .nav-list ul li {
+        padding: 0px 0px 0px 24px;
+    }
+    .nav-enquiry-btn  {
+        margin-left: 45px;
+    }
+    .banner {
+        padding: 185px 0px 121px 0px;
+    }
+    .banner-heading{
+        padding-right: 321px;
+    } 
+    .banner-heading h1 {
+        font-size: 44px;
+        line-height: 56px;
+    }
+    .about-me {
+        padding: 80px 0px 70px 0px;
+    }
+    .about-me-image {
+        width: 48%;
+    }
+    .about-me-content {
+        width: 48%;
+    }
+    .about-me-content h5 {
+        width: 19%;
+    }
+    .about-vision {
+        margin-bottom: 8px;
+    }
+    .about-work {
+        margin-bottom: 9px;
+    }
+    .our-courses-para {
+        width: 71%;
+    }
+    .our-courses-heding {
+        width: 12%;
+    }
+    .card {
+        width: 305px;
+    }
+    .card-container {
+        padding: 0px 8px 0px 8px;
+    }
+    .packages {
+        padding-top: 70px;
+    }
+    .package-card-payment p {
+        font-size: 35px;
+        line-height: 56px;
+    }   
+    .card-duaration p {
+        padding-left: 10px;
+    }
+    .card-Enroll-button {
+        padding-right: 15px;
+    }
+    .packages-section-para p {
+        width: 84%;
+    }
+    .package-card {
+        width: 317px;
+        padding: 56px 19px 65px 20px;
+    }
+    .package-card-heading h3 {
+        font-size: 34px;
+    }
+    .package-card-list p {
+        font-size: 17px;
+    }
+    .testinomial {
+        padding-top: 70px;
+        padding-bottom: 120px;
+    }
+    .testinomial-image  {
+        float: unset;
+        width: 58%;
+        margin: 0 auto;
+    }
+    .testimonial-box {
+        padding: 60px 30px 50px 30px;
+    }
+    .testinomial-student-feedback p {
+        padding: 20px 0px 35px 0px;
+    }
+    .choose-us{
+       padding: 74px 0px 251px 0px;
+    }
+    .booking-btn a {
+        min-width: 196px;
+        padding: 19px 35px;
+    }
+    .experience-boxes {
+        padding-left: 0px;
+    }
+    .box {
+        width: 229px;
+        height: 229px;
+        padding: 35px 0px 35px 0px;
+    }
+    .contact-us-image {
+        float: unset;
+        width: 66%;
+        margin: 0 auto;
+    }
+    .form-section {
+        float: unset;
+        width: 100%;
+        margin: 20px auto 0;
+    }
+    .quesion h3 {
+        font-size: 35px;
+        line-height: 47px;
+    }
+    .footer-content p {
+        padding: 8px 0px 17px 0px;
+    }
+    .location a {
+        padding-right: 0px;
+    }
+    .explore-section {
+        width: 16%;
+    }
+    .contact-section {
+         width: 28%;
+    }
+     .slidercontainer {
+        width: 100%;
+    }
+    .gallery-heading h5 {
+        width: 6%;
+    }
+    .choose-us-section {
+        width: 60%;
+    }
+    .why-choose {
+        width: 22%;
+    }
+    .facilities {
+        width: 100%;
+    }
+    .gallery-section-para p {
+        width: 100%;
+    }
+    .contact-us-section-para p {
+        width: 83%;
+    }
+    .sticky-logo {
+        width: 12%;
+    }
+    .banner-heading h2 {
+        font-size: 40px;
+        line-height: 56px;
+    }
+    .about-me-content h3 {
+        font-size: 38px;
+        line-height: 50px;
+    }
+    .our-clases-heding h3 {
+        font-size: 38px;
+        line-height: 50px;
+    }
+     .form-heading h3 {
+        font-size: 38px;
+        line-height: 50px;
+    }
+    .choose-us-section {
+        width: 95%;
+    }
+    .choose-us-section-heading.left {
+        width: 60%;
+    }
+    .our-clases-heding {
+        margin: 10px 10px 0px 10px;
+    }
+    .link-list ul li a {
+        font-size: 16px;
+        line-height: 28px;
+    }
+    .location a, .contact a, .email a {
+        font-size: 16px;
+        line-height: 28px;
+    }
+    .footer-content p {
+        font-size: 16px;
+        line-height: 28px;
+    }
+    .subscribe p {
+        font-size: 16px;
+        line-height: 28px;
+    }
+}
+/*1024*/
+@media only screen and (max-width:1023px){
+    .slicknav_menu {
+        display: block;
+        float: right;
+        width: 22%;
+        margin-top: 38px;
+        position: absolute;
+        right: 9px;
+        z-index: 1;
+        text-align: end;
+        margin-top: 0;
+        top: 0;
+    }
+    .slicknav_menutxt {
+        font-size: 0;
+    }
+    .slicknav_icon-bar {
+        border-bottom: 3px solid black;
+        display: block;
+        margin: 5px;
+        width: 30px;
+        transition: 0.3s all;
+    }
+    ul.slicknav_nav {
+        margin-top: 19px;
+    }
+    .slicknav_nav li {
+        list-style: none;
+        text-align: left;
+    }
+    .slicknav_nav li a {
+        color: black;
+        padding-left: 8px;
+    }
+    .nav-list ul {
+        display: none;
+    }
+    .slicknav_nav {
+        background-color: white;
+        margin-right: 10px;
+    }
+    .slicknav_menu.active .slicknav_icon-bar:first-child {
+      transform: rotate(45deg) translate(6px, 6px);
+      transition: 0.5s all;
+    }
+    .slicknav_menu.active .slicknav_icon-bar:last-child {
+      transform: rotate(130deg);
+      transition: 0.5s all;
+    }
+    .slicknav_menu.active .slicknav_icon-bar:nth-child(2) {
+      display: none;
+    }
+    .nav-button {
+        color: #6E2B62;
+        font-weight: 600;
+        border: none;
+        padding: 7px 106px 4px 0px;
+        background-color: white;
+        font-size: 16px;
+        margin: 0;
+        min-width: 0;
+        border-radius: 0;
+    }
+    .nav-list ul li {
+        display:block;
+        border-bottom: 1px solid #101130;
+    }
+    .nav-list ul li:last-child {
+        border: none;
+    }
+    .nav-list ul li a {
+        padding: 7px 15px 4px 7px;
+        color: #101130;
+        font-weight: 600;
+    }
+    .slicknav_arrow {
+        display: none;
+    }
+    .nav-icons:hover {
+        background-color:unset;
+    }
+    .nav-icons svg {
+        top: 13px;
+        left: 96px;
+    }
+    .nav-list {
+        margin-top: 8px;
+        margin-right: 45px;
+    }
+    .banner {
+        padding: 166px 0px 121px 0px;
+    }
+    .about-me {
+        padding: 61px 0px 52px 0px;
+    }
+    .packages {
+        padding-top: 54px;
+    }
+    .card {
+        width: 290px;
+        height: 476px;
+    }
+    .card-para p {
+        font-size: 16px;
+    }
+    .card-Enroll-button {
+        padding-right: 15px;
+    }
+    .packages-section-para p {
+        width: 87%;
+    }
+    .package-card {
+        width: 303px;
+        padding: 31px 19px 36px 20px;
+    }
+    .package-card-heading h3 {
+        font-size: 30px;
+        line-height: 42px;
+    }
+    .package-card-list p {
+        font-size: 16px;
+    }
+    .testinomial {
+        padding-top: 80px;
+    }
+    .testimonial-box {
+        padding: 58px 3px 51px 10px;
+        margin-top: 30px;
+    }
+    .testinomial-heading h5 {
+        width: 12%;
+    }
+    .testinomial .bx-prev {
+        right: 19px;
+    }
+    .testinomial .bx-next {
+        right: 69px;
+    }
+    .box {
+        width: 219px;
+        height: 219px;
+        padding: 22px 0px 22px 0px;
+    }
+    .testinomial {
+        padding-bottom: 65px;
+    }
+    .gallery {
+        padding: 0;
+    }
+    .packages-section-para p {
+        width: 70%;
+    }
+    .contact-us-section-para p {
+        width: 63%;
+        padding-bottom: 15px;
+    }
+    .contact-box {
+        padding: 20px 30px 23px 75px;
+        width: 100%;
+    }
+    .form-image-section {
+        padding-bottom: 35px;
+    }
+    .enquire-now-section {
+        padding: 25px 25px;
+    }
+    .slidercontainer {
+        width: 97%;
+    }
+    .choose-us-section-heading.left {
+        width: 62%;
+    }
+    .contact-us-section-para p {
+        width: 80%;
+    }
+    .contact a{
+        padding-right: 60px;
+    }
+    .banner-heading h2 {
+        font-size: 31px;
+        line-height: 42px;
+    }
+    .nav-enquiry-btn{
+        margin-top: 6px;
+    }
+    .nav-enquiry-button  {
+        padding: 12px;
+        min-width: 130px;   
+    }
+    .sticky-logo {
+        width: 14%;
+    }
+     .sticky {
+        position: static;
+    }
+}
+/*980*/
+@media only screen and (max-width:979px){
+    header {
+        position: relative;
+        background-color: white;
+    }
+    .nav-logo {
+        width: 19%;
+    }
+    .nav-list {
+        margin-top: 6px;
+    }
+    .slicknav_menu {
+        top: 6px;
+    }
+    ul.slicknav_nav {
+        margin-top: 24px;
+    }
+    .banner {
+        padding: 129px 0px 85px 0px;
+    }
+    .about-me-image {
+        float: unset;
+        width: 61%;
+        margin: 0 auto;
+    }
+    .about-me-content {
+        float: unset;
+        width: 100%;
+        padding-top: 30px;
+    }
+    .about-me-content h5 {
+        width: 12%;
+    }
+    .about-me-content h3 {
+        font-size: 36px;
+        line-height: 48px;
+    }
+    .our-courses-heding {
+        width: 15%;
+    }
+    .our-courses-para {
+        width: 90%;
+    }
+    .our-clases-heding h3 {
+        font-size: 35px;
+        line-height: 47px;
+    }
+    .our-clases-heding {
+        margin: 10px 10px 0px 10px;
+    }
+    .card {
+        display: block;
+        width: 387px;
+        height: 558px;
+        margin: 0 auto 20px;
+    }
+    .card-container {
+        padding: 0px 27px 0px 22px;
+    }
+    .courses-cards {
+        padding: 15px 0px 5px 0px;
+    }
+    .package-card {
+        padding: 20px 12px 29px 20px;
+    }
+    .package-card-slidercontainer {
+        width: 56%;
+        margin: 0 auto;
+    }
+    .packages-section-para p {
+        width: 90%;
+        padding-bottom: 50px;
+    }
+    .package-lessions-heading h3 {
+        padding: 9px 0px 6px 0px;
+        font-size: 35px;
+        line-height: 47px;
+    }
+    .package-heading h5 {
+        width: 11%;
+    }
+    .card-package {
+        background-color: #F3F4F5;
+        padding-bottom: 10px;
+    }
+    .package-card {
+        display: block;
+        width: 412px;
+        margin: 0 auto 20px;
+    }
+    .package-card-list p {
+        font-size: 18px;
+    }
+    .testinomial {
+        background-size: contain;
+    }
+    .testinomial-image {
+        float: unset;
+        width: 76%;
+        margin: 0 auto;
+    }
+    .testinomial-heading h5 {
+        width: 15%;
+    }
+    .testinomial-students-heading h3 {
+        font-size: 35px;
+        line-height: 47px;
+    }
+    .testinomial-section-para p {
+        width: 100%;
+        padding-bottom: 40px;
+    }
+    .choose-us {
+        padding: 25px 0px 20px 0px;
+    }
+    .choose-us-section {
+        float: unset;
+        width: 100%;
+    }
+    .why-choose {
+        width: 17%;
+        margin: 0 auto 15px;
+    }
+    .facilities{
+        width: 85%;
+        margin: 0px auto 15px;
+    }
+    .facilities h3 {
+        font-size: 35px;
+        line-height: 46px;
+    }
+    .booking-btn {
+        float: unset;
+        text-align: center;
+        padding: 0;
+    }
+    .experience-boxes {
+        width: 70%;
+        margin: 0 auto 25px;
+    }
+    .box {
+        box-shadow: 0.3px 0.3px 2px grey;
+        margin-top: 20px;
+        margin-left: 14px;
+    }
+    .gallery-heading h5 {
+        width: 9%;
+    }
+    .my-gallery-heading h3 {
+        padding: 10px 0px 6px 0px;
+        font-size: 35px;
+        line-height: 47px;
+    }
+    .gallery-section-para p {
+        width: 90%;
+        padding-bottom: 20px;
+    }
+    .contact-us h5 {
+        width: 14%;
+    }
+    .get-in-touch-heading h3 {
+        padding: 10px 0px 6px 0px;
+        font-size: 35px;
+        line-height: 47px;
+    }
+    .contact-us-image {
+        float: unset;
+        width: 87%;
+        margin: 0 auto;
+    }
+    .contact-box {
+        padding: 20px 10px 23px 112px;
+    }
+    .contact-us-section-para p {
+        width: 90%;
+    }
+    .form-image-section {
+        padding-bottom: 70px;
+    }
+    .quesion h3 {
+        font-size: 26px;
+        line-height: 38px;
+    }
+    .footer-logo-section {
+        width: 40%;
+    }
+    .footer-logo-section {
+        display: block;
+        width: 100%;
+    }
+    .footer-content p {
+        padding: 8px 83px 17px 0px;
+    }
+    .explore-section {
+        width: 25%;
+    }
+    .contact-section {
+        width: 60%;
+    }
+    .subscribe {
+        width: 100%;
+    }
+    .footer-content p {
+        font-size: 18px;
+        line-height: 30px;
+    }
+    .link-list ul li a {
+        font-size: 18px;
+        line-height:30px;
+    }
+    .location a, .contact a, .email a {
+        font-size: 18px;
+        line-height: 30px;
+    }
+    .subscribe p {
+        font-size: 18px;
+        line-height: 30px;
+    }
+    .footer-section {
+        background-color: #F4F4F4;
+        padding: 95px 0px 10px 0px;
+    }
+    .copyright {
+        padding: 10px 0px;
+    }
+    .single-image {
+        width: 327px !important;
+    }
+    .multi-image {
+        width: 231px !important;
+    }
+    .gallery .bx-viewport {
+        height: 322px !important;
+    }
+    .gallery {
+        padding: 50px 0px 50px 0px;
+    }
+    .banner-heading h2 {
+        font-size: 34px;
+        line-height: 46px;
+    }
+    .nav-enquiry-button  {
+        min-width: 122px;
+        padding: 12px;
+    }
+    .banner-heading h2 {
+        font-size: 30px;
+        line-height: 42px;
+    }
+    .banner-heading {
+        padding-right: 274px;
+    }
+    .banner-heading h1 {
+        font-size: 36px;
+        line-height: 48px;
+    }
+    .nav-enquiry-btn {
+        margin-top: 11px;
+        margin-right: 10px;
+        position: relative;
+        z-index: 1;
+    }
+    .choose-us-section-heading.left {
+        width: 100%;
+    }
+    .package-card-slidercontainer .bx-controls.bx-has-controls-direction.bx-has-pager {
+        display: block;
+    }
+    .package-card-slidercontainer .bx-prev{
+        font-size: 0;
+        background: url(../images/next.svg) no-repeat center;
+        width: 33px;
+        height: 33px;
+        background-color:#495E57;
+        position: absolute;
+        right: 0;
+        bottom: 20px;
+    }
+    .package-card-slidercontainer .bx-next {
+        font-size: 0;
+        background: url(../images/prev.svg) no-repeat center;
+        width: 33px;
+        height: 33px;
+        position: absolute;
+        background-color:#495E57;
+        bottom: 20px;
+        right: 32px;
+    }
+    .courses-cards-slidercontainer {
+        margin: auto;
+        width: 53%;
+    }
+    .courses-cards-slidercontainer .bx-prev{
+        font-size: 0;
+       background: url(../images/next.svg) no-repeat center;
+        width: 33px;
+        height: 33px;
+        background-color: #495E57;
+        position: absolute;
+        right: 0;
+        bottom: 20px;
+    }
+    .courses-cards-slidercontainer .bx-next {
+        font-size: 0;
+        background: url(../images/prev.svg) no-repeat center;
+        width: 33px;
+        height: 33px;
+        position: absolute;
+        background-color: #495E57;
+        bottom: 20px;
+        right: 32px;
+    }
+}
+/*768*/
+@media only screen and (max-width:767px){
+    .nav-logo {
+        width: 21%;
+    }
+    .nav-enquiry-btn{
+        margin-top: 6px;
+    }
+    .nav-enquiry-button{
+        min-width: 114px;
+        padding: 12px;
+    }
+    ul.slicknav_nav {
+        margin-top: 26px;
+    }
+    .slicknav_menu {
+        top: 0; 
+    }
+    .banner {
+        padding: 106px 0px 85px 0px;
+    }
+    .banner-heading h2 {
+        font-size: 30px;
+        line-height: 42px;
+    }
+    .about-me {
+        padding: 48px 0px 46px 0px;
+    }
+    .about-me-content h5 {
+        width: 14%;
+    }
+    .about-me-content h3 {
+        padding: 5px 0px;
+    }
+    .experience-boxes {
+        width: 80%;
+        margin: 0 auto 25px;
+    }
+    .contact-us-image {
+        width: 90%;
+    }
+    .contact-us-section-para p {
+        width: 100%;
+    }
+    .contact-box {
+        padding: 10px 10px 10px 112px;
+    }
+    .form-section {
+        width: 90%;
+    }
+    .quesion{
+        float: unset;
+        width: 80%;
+        margin: 0 auto;
+    }
+    .enquire-now-section {
+        padding: 10px;
+    }
+    .enquire-btn {
+        float: unset;
+        text-align: center;
+    }
+    .location a, .contact a, .email a {
+        padding-right: 0px;
+    }
+    .explore-section {
+        width: 23%;
+    }
+    .contact-section {
+        width: 63%;
+    }
+     .why-choose {
+        width: 20%;
+        margin: 0 auto 10px;
+    }
+    .facilities {
+        width: 100%;
+    }
+    .explore-section {
+        width: 32%;
+    }
+    .subscribe {
+        width: 100%;
+    }
+    .box {
+        margin-top: 30px;
+    }
+    .enquire-btn a {
+        min-width: 146px;
+        padding: 13px 0px 10px 0px;
+    }
+    .banner-heading {
+        padding-right: 179px;
+    }
+    .banner-heading h1 {
+        font-size: 32px;
+        line-height: 44px;
+    }
+    .banner-heading h2 {
+        font-size: 28px;
+        line-height: 40px;
+    }
+    .testinomial .bx-prev {
+        right: 0px;
+    }
+    .testinomial .bx-next {
+        right: 50px;
+    }
+    .package-card-slidercontainer {
+        width: 66%;
+        margin: 0 auto;
+    }
+    .courses-cards-slidercontainer {
+        margin: auto;
+        width: 62%;
+    }
+}
+/*650*/
+@media only screen and (max-width:649px){
+    .slicknav_menu {
+        width: 27%;
+    }
+    .banner {
+        padding: 68px 0px 31px 0px;
+        position: relative;
+    }
+    .banner::before {
+        content: "";
+        position: absolute;
+        height: 100%;
+        width: 100%;
+        background-color: #F48014;
+        opacity: 0.2;
+        top: 0;
+    }
+    .banner-heading {
+        position: relative;
+    }
+    .about-me-image {
+        width: 88%;
+    }
+    .about-me-content h3 {
+        padding: 5px 0px;
+    }
+    .our-courses-para p {
+        font-size: 18px;
+    }
+    .our-courses-heding {
+        width: 19%;
+    }
+    .packages-section-para p {
+        width: 100%;
+        font-size: 18px;
+    }
+    .package-heading h5 {
+        width: 16%;
+    }
+    .package-card {
+        padding: 10px 10px 15px 10px;
+    }
+    .package-card-Enroll-button {
+        padding-top: 8px;
+    }
+    .testinomial-section-para p {
+        font-size: 18px;
+    }
+    .gallery-section-para p {
+        width: 100%;
+        font-size: 18px;
+    }
+    .testinomial-image {
+        width: 89%;
+    }
+    .why-choose {
+        width: 24%;
+    }
+    .facilities{
+        width: 98%;
+    }
+    .facilities h3 {
+        font-size: 30px;
+        line-height: 42px;
+    }
+    .contact-us-section-para p {
+        width: 100%;
+        font-size: 18px;
+    }
+    .experience-boxes {
+        width: 43%;
+        margin: 0 auto 25px;
+    }
+    .box {
+        display: block;
+        width: 235px;
+        height: 235px;
+        margin: 15px 0px;
+    }
+    .gallery {
+        padding: 15px 0px 35px 0px;
+    }
+    .contact-us-image {
+        width: 100%;
+    }
+    .contact-us h5 {
+        width: 18%;
+    }
+    .quesion {
+        float: unset;
+        width: 90%;
+        margin: 0 auto;
+    }
+    .form-section {
+        width: 100%;
+    }
+    .form-image-section {
+        padding-bottom: 20px;
+    }
+    .package-card-slidercontainer {
+        width: 75%;
+        margin: 0 auto;
+    }
+    .testinomial .bx-prev {
+        right: 0px;
+    }
+    .testinomial .bx-next {
+        right: 50px;
+    }
+    .contact-us-call {
+        margin-right: 70px;
+    }
+    .contact-box {
+        padding: 20px 10px 23px 77px;
+    }
+    .explore-section {
+        width: 38%;
+    }
+    .contact-section {
+        width: 49%;
+    }
+    .our-courses-para{
+        width: 96%;
+    }
+    .testimonial-box {
+        padding: 50px 5px 22px 15px;
+    }
+    .contact-us-section-para p {
+        width: 96%;
+    }
+    .copyright-section span {
+        font-size: 16px;
+        line-height: 30px;
+    }
+    .footer-content p {
+        padding: 8px 0px 17px 0px;
+    }
+    .booking-btn a {
+        min-width: 176px;
+        padding: 15px 17px;
+    }
+    .submit-btn input {
+        padding: 12px;
+    }
+    .enquire-btn a {
+        padding: 11px 0px;
+        min-width: 137px;
+    }
+    .message-field textarea {
+        padding: 0;
+    }
+    .nav-logo {
+        width: 23%;
+    }
+    ul.slicknav_nav {
+        margin-top: 25px;
+    }
+    .package-card {
+        padding: 15px 10px 25px 10px;
+    }
+    .banner-heading h2 {
+        font-size: 26px;
+        line-height: 38px;
+    }
+    .banner-heading {
+        padding-right: 162px;
+    }
+    .banner-heading h1 {
+        font-size: 30px;
+        line-height: 42px;
+    }
+    .courses-cards-slidercontainer {
+        margin: auto;
+        width: 71%;
+    }
+}
+/*568*/
+@media only screen and (max-width:567px){
+    .banner {
+        padding: 32px 0px 21px 0px;
+    }
+    .banner-heading h2 {
+        font-size: 25px;
+        line-height: 36px;
+    }
+    .about-me-image {
+        float: unset;
+        width: 90%;
+        margin: 0 auto;
+    }
+    .about-me-content h5 {
+        width: 19%;
+    }
+    .about-me-content h3 {
+        font-size: 30px;
+        line-height: 42px;
+    }
+    .banner-heading {
+        padding-right: 151px;
+    }
+    .about-me-image::after {
+        top: 0;
+        right: -11px;
+    }
+    .slicknav_menu {
+        width: 30%;
+    }
+    .our-courses-heding {
+        width: 22%;
+    }
+    .our-clases-heding h3 {
+        font-size: 30px;
+        line-height: 42px;
+    }
+    .testimonial-box {
+        padding: 51px 10px 20px 10px;
+    }
+    .testinomial-students-heading h3 {
+        font-size: 30px;
+        line-height: 42px;
+    }
+    .why-choose {
+        width: 30%;
+    }
+    .facilities{
+        width: 98%;
+    }
+    .facilities h3 {
+        font-size: 25px;
+        line-height: 38px;
+    }
+    .experience-boxes {
+        width: 51%;
+    }
+    .contact-box {
+        padding: 20px 10px 23px 49px;
+    }
+    .form-heading h3 {
+        font-size: 29px;
+        line-height: 40px;
+    }
+    .quesion h3 {
+        font-size: 23px;
+        line-height: 34px;
+    }
+    .quesion p {
+        font-size: 17px;
+    }
+    .card-duaration {
+        padding-top: 20px;
+    }
+    .card-Enroll-button {
+        padding-top: 10px;  
+    }
+    .gallery-heading h5 {
+        width: 15%;
+    }
+    .contact-us-section-para p {
+        width: 100%;
+    }
+    .contact-section {
+        width: 52%;
+    }
+    .nav-logo {
+        width: 25%;
+    }
+    .form-heading {
+        margin-bottom: 19px;
+    }
+    .message-field textarea {
+        padding: 0px 0px 0px 0px;
+    }
+    .contact-us-call {
+        margin-right: 0px;
+    }
+    .contact-box {
+        padding: 8px 10px 6px 49px;
+    }
+    .contact-section {
+        width: 54%;
+    }
+    .nav-logo {
+        width: 28%;
+    }
+    .contact-section {
+        width: 60%;
+    }
+    .package-card-slidercontainer {
+        width: 90%;
+        margin: 0 auto;
+    }
+    .courses-cards-slidercontainer {
+        margin: auto;
+        width: 85%;
+    }
+}
+/*480*/
+@media only screen and (max-width:479px){
+    .nav-logo {
+        width: 30%;
+    }
+    .slicknav_menu {
+        width: 37%;
+    }
+    .banner-heading {
+        padding-right: 120px;
+    }
+    .our-courses-para p {
+        font-size: 16px;
+    }
+    .about-me-content h5 {
+        width: 24%;
+    }
+    .our-courses-heding {
+        width: 26%;
+    }
+    .testinomial-heading h5 {
+        width: 28%;
+    }
+    .testinomial-students-heading h3 {
+        font-size: 28px;
+        line-height: 40px;
+    }
+    .testinomial-student-feedback p {
+        padding: 14px 0px 23px 0px;
+    }
+    .packages-section-para p {
+        width: 100%;
+    }
+    .packages {
+        padding-top: 40px;
+    }
+    .packages-section-para p {
+        font-size: 16px;
+    }
+    .package-card-payment p {
+        font-size: 30px;
+        line-height: 42px;
+    }
+    .package-card {
+        width: 375px;
+    }
+    .facilities{
+        width: 100%;
+    }
+    .facilities h3 {
+        font-size: 22px;
+        line-height: 34px;
+    }
+    .experience-boxes {
+        width: 60%;
+    }
+    .gallery-heading h5 {
+        width: 16%;
+    }
+    .gallery-section-para p {
+        width: 98%;
+    }
+    .contact-us h5 {
+        width: 24%;
+    }
+    .contact-box {
+        padding: 20px 10px 23px 66px;
+    }
+    .contact-us-image {
+        width: 100%;
+    }
+    .form-section {
+        width: 100%;
+        padding: 10px 6px 10px 16px;
+    }
+    .quesion {
+        float: unset;
+        width: 100%;
+        margin: 0 auto;
+    }
+    .quesion h3 {
+        font-size: 20px;
+        line-height: 32px;
+    }
+    .quesion p {
+        font-size: 16px;
+    }
+    .footer-content p {
+        padding: 8px 0px 17px 0px;
+    }
+    .contact-us-call {
+        margin-bottom: 10px;
+    }
+    .contact-section {
+        width: 58%;
+    }
+    .contact-us-call {
+        padding: 0;
+        border: none;
+        display: block;
+    }
+    .contact-us-call a svg {
+        top: 12px;
+    }
+    .contact-us-email {
+        padding: 0;
+    }
+    .contact-us-email a svg {
+         left: -45px;
+    }
+    .contact-box h3 {
+        font-size: 18px;
+    }
+    .contact-box {
+        padding: 7px 10px 8px 66px;
+    }
+    .explore-section {
+        width: 100%;
+        margin-top: 15px;
+    }
+    .contact-section {
+        width: 100%;
+        margin-top: 15px;
+    }
+    .subscribe {
+        margin-top: 10px;
+    }
+    .location a {
+        margin-bottom: 15px
+    }
+    .footer-content p {
+        font-size: 16px;
+        line-height: 28px;
+    }
+    .subscribe p {
+        font-size: 18px;
+        line-height: 30px;
+    }
+    .booking-btn a {
+        padding: 15px 18px;
+    }
+    .link-list ul li a {
+        font-size: 16px;
+        line-height: 28px;
+    }
+    .location a, .contact a, .email a {
+        font-size: 17px;
+    }
+    .nav-enquiry-button  {
+        min-width: 111px;
+        padding: 9px;
+    }
+    .testinomial-image ::after {
+        top: -25px;
+        left: -22px;
+    }
+    .testinomial {
+        padding-top: 44px;
+    }
+    ul.slicknav_nav {
+        margin-top: 24px;
+    }
+    .slicknav_menu {
+        top: -3px;
+    }
+    .package-card-slidercontainer {
+        width: 98%;
+        margin: 0 auto;
+    }
+    .package-card {
+        width: 378px !important;
+        margin-right: 12px !important;
+    }
+    .package-card-slidercontainer .bx-next {
+        right: 44px;
+    }
+    .package-card-slidercontainer .bx-prev {  
+        right: 11px;
+    }
+    .courses-cards-slidercontainer {
+        margin: auto;
+        width: 98%;
+    }
+}
+/*414*/
+@media only screen and (max-width:413px){
+    .banner {
+        padding: 38px 0px 14px 0px;
+    }
+    ul.slicknav_nav {
+        margin-top:22px;
+    }
+    .about-vision {
+        font-size: 17px;
+    }
+    .our-courses-para {
+        width: 100%;
+    }
+    .card {
+        display: block;
+        width: 374px !important ;
+        margin: 0 auto 20px;
+        height: 541px;
+    }
+    .courses-cards-slidercontainer .bx-prev {
+        right: 13px;
+    }
+    .courses-cards-slidercontainer .bx-next {
+        right: 46px;
+    }
+    .card-container {
+        padding: 0px 8px 0px 8px;
+    }
+    .why-choose {
+        width: 35%;
+    }
+    .facilities h3 {
+        width: 100%;
+        font-size: 20px;
+        line-height: 32px;
+    }
+    .experience-boxes {
+        width: 63%;
+    }
+    .explore-section {
+        margin-top: 15px;
+    }
+    .contact-section {
+        margin-top: 10px;
+    }
+    .subscribe {
+        margin-top: 9px;
+    }
+    .testinomial-students-heading h3 {
+        font-size: 26px;
+        line-height: 38px;
+    }
+    .testinomial-student-feedback p {
+        font-size: 18px;
+        line-height: 30px;
+    }
+    .testinomial-section-para p {
+        font-size: 16px;
+        line-height: 28px;
+    }
+    .testinomial-image ::after {
+        top: -16px;
+        left: -13px;
+    }
+    .gallery-section-para p {
+        font-size: 16px;
+        line-height: 28px;
+    }
+    .my-gallery-heading h3 {
+        padding: 6px 0px 6px 0px;
+    }
+    .contact-us-section-para p {
+        font-size: 16px;
+        line-height: 28px;
+    }
+    .slicknav_menu {
+        width: 41%;
+    }
+    .banner-heading {
+        padding-right: 114px;
+    }
+    .banner-heading h1 {
+        font-size: 28px;
+        line-height: 40px;
+    }
+    .package-card {
+        width: 370px !important;
+    }
+    .package-card-slidercontainer {
+        width: 100%;
+        margin: 0 auto;
+    }
+   .courses-cards-slidercontainer {
+        margin: auto;
+        width: 100%;
+    }
+}
+/*390*/
+@media only screen and (max-width:389px){
+    .package-lessions-heading h3 {
+        padding: 9px 0px 6px 0px;
+        font-size: 30px;
+        line-height: 42px;
+    }
+    .package-heading h5 {
+        width: 22%;
+    }
+    .package-card {
+        width: 355px !important;
+    }
+    .packages-section-para p {
+        width: 100%;
+    }
+    .testinomial-students-heading h3 {
+        font-size: 26px;
+        line-height: 38px;
+    }
+    .testinomial-section-para p {
+        width: 100%;
+    }
+    .experience-boxes {
+        width: 66%;
+    }
+    .slicknav_menu {
+        width: 45%;
+    }
+    ul.slicknav_nav {
+        margin-top: 25px;
+    }
+    .nav-logo {
+        width: 34%;
+    }
+    .card {
+        width: 326px !important;
+        margin: 0px 13px !important;
+    }
+    .courses-cards-slidercontainer .bx-prev {
+        right: 21px;
+        bottom: 0px;
+    }
+    .courses-cards-slidercontainer .bx-next {
+        right: 54px;
+        bottom: 0px; 
+    }
+    .card {
+        height: 500px;
+    }
+}
+/*375*/
+@media only screen and (max-width:374px){
+    .nav-enquiry-btn {
+        margin-left: 15px;
+    }
+    .nav-enquiry-button  {
+         min-width: 105px;
+        padding: 7px;
+    }
+    .slicknav_menu {
+        top: -6px;
+    }
+    ul.slicknav_nav {
+        margin-top: 22px;
+    }
+    .banner-heading {
+        padding-right: 68px;
+    }
+    .nav-logo {
+        width: 28%;
+    }
+    .about-me-content h5 {
+        width: 26%;
+    }
+    .our-courses-heding {
+        width: 31%;
+    }
+    .card {
+        width: 296px !important;
+        height: 478px;
+    }
+    .card-Enroll-button {
+        padding-right: 10px;
+    }
+    .card-duaration p {
+        padding-left: 0;
+    }
+    .package-lessions-heading h3 {
+        padding: 9px 0px 6px 0px;
+        font-size: 28px;
+        line-height: 40px;
+    }
+    .why-choose {
+        width: 42%;
+    }
+    .package-card {
+        width: 283px;
+    }
+    .contact-us h5 {
+        width: 29%;
+    }
+    .testimonial-box.right {
+        width: 300px !important;
+        margin-right: 20px;
+    }
+    .bx-wrapper {
+        max-width: 300px !important;
+    }
+    .contact-section {
+        width: 100%;
+    }
+    .subscribe {
+        width: 100%;
+    }
+    .nav-logo {
+        width: 35%;
+    }
+    .slicknav_menu {
+        width: 48%;
+    }
+    .testinomial-students-heading h3 {
+        font-size: 21px;
+        line-height: 34px;
+    }
+    .contact-us-section-para p {
+        font-size: 18px;
+    }
+    .booking-btn a {
+        min-width: 196px;
+        padding: 13px 20px;
+    }
+    .experience-boxes {
+        width: 77%;
+    }
+    .form-heading h3 {
+        font-size: 25px;
+        line-height: 37px;
+    }
+    .package-card-para p {
+        font-size: 17px;
+        line-height: 30px;
+    }
+    .package-card-slidercontainer .bx-prev {
+        right: 0px;
+    }
+    .package-card-slidercontainer .bx-next {
+        right: 33px;
+    }
+    .courses-cards-slidercontainer .bx-prev {
+        right: 0px;
+    }
+    .courses-cards-slidercontainer .bx-next {
+        right: 33px; 
+    }
+    .location a, .contact a, .email a {
+        font-size: 16px;
+        line-height: 28px;
+    }
+}
+/*320*/
+/*Responsive CSS End*/
